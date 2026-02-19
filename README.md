@@ -24,6 +24,11 @@ A full-stack framework for a digital wallet system featuring:
 * **API Service Layer**: Robust handling of RESTful services.
 * **CI/CD**: Integrated GitHub Actions with automated reporting.
 
+### 🏦 [Banking Simulation Test](https://github.com/shafirarizal/banking-simulation-test)
+An automated suite focused on core banking transaction logic and data integrity.
+* **Scenario Coverage**: Validates account transfers, balance updates, and transaction history.
+* **Tech Stack**: Playwright and TypeScript with structured test data management.
+
  ---
 ### 📫 Let's Connect!
 - **LinkedIn**: [https://www.linkedin.com/in/shafirarizal ]
