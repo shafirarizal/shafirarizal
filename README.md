@@ -16,7 +16,7 @@ I build resilient automation frameworks and high-coverage test suites to ensure 
 
 ##  Featured Projects
 
-I currently maintain three primary repositories that showcase my automation expertise:
+I currently maintain two primary repositories that showcase my automation expertise:
 
 ### 💳 [Digital Wallet Automation](https://github.com/shafirarizal/digital-wallet-automation)
 A full-stack framework for a digital wallet system featuring:
